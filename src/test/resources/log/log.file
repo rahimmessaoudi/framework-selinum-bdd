@@ -1,5 +1,0 @@
-2020-12-10 23:39:37,581 - com.e2eTests.automation.util.AbstractPage - INFO - J ouvre l application OrangeHRM
-2020-12-10 23:39:42,895 - com.e2eTests.automation.util.AbstractPage - INFO - Je saisie le login
-2020-12-10 23:39:43,047 - com.e2eTests.automation.util.AbstractPage - INFO - Je saisie le mot de passe
-2020-12-10 23:39:43,203 - com.e2eTests.automation.util.AbstractPage - INFO - Je clique sur le bouton login
-2020-12-10 23:39:45,581 - com.e2eTests.automation.util.AbstractPage - INFO - Je verifie le compte admin
